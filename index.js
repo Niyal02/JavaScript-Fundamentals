@@ -99,14 +99,3 @@ greeting('Mary', 'none');           // none is also an argument
 
 //-------------------------------------------------------------------
 
-//Types of Functions
-// 2. Calculating a value
-
-function square(number){
-    return number * number
-}
-
-console.log(square(2));    // this is just used to display the value which is simple
-
-let number = square(2);   // another mostly used method is using the value 2 to initialize the variable
-console.log(number); 
