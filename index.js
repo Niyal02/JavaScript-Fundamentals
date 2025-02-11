@@ -110,4 +110,3 @@ console.log(square(2));    // this is just used to display the value which is si
 
 let number = square(2);   // another mostly used method is gusing the value 2 to initialize the variable
 console.log(number); 
-    
